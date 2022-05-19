@@ -1,6 +1,0 @@
-hello 
-hello 
-hello 
-hello master 
-hello test 
-11
